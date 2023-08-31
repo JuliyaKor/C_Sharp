@@ -1,0 +1,15 @@
+D:\C_Sharp\list02\bin\Debug\net6.0\list02.exe
+D:\C_Sharp\list02\bin\Debug\net6.0\list02.deps.json
+D:\C_Sharp\list02\bin\Debug\net6.0\list02.runtimeconfig.json
+D:\C_Sharp\list02\bin\Debug\net6.0\list02.dll
+D:\C_Sharp\list02\bin\Debug\net6.0\list02.pdb
+D:\C_Sharp\list02\obj\Debug\net6.0\list02.csproj.AssemblyReference.cache
+D:\C_Sharp\list02\obj\Debug\net6.0\list02.GeneratedMSBuildEditorConfig.editorconfig
+D:\C_Sharp\list02\obj\Debug\net6.0\list02.AssemblyInfoInputs.cache
+D:\C_Sharp\list02\obj\Debug\net6.0\list02.AssemblyInfo.cs
+D:\C_Sharp\list02\obj\Debug\net6.0\list02.csproj.CoreCompileInputs.cache
+D:\C_Sharp\list02\obj\Debug\net6.0\list02.dll
+D:\C_Sharp\list02\obj\Debug\net6.0\refint\list02.dll
+D:\C_Sharp\list02\obj\Debug\net6.0\list02.pdb
+D:\C_Sharp\list02\obj\Debug\net6.0\list02.genruntimeconfig.cache
+D:\C_Sharp\list02\obj\Debug\net6.0\ref\list02.dll
