@@ -1,0 +1,15 @@
+D:\C_Sharp\list13\bin\Debug\net6.0\list13.exe
+D:\C_Sharp\list13\bin\Debug\net6.0\list13.deps.json
+D:\C_Sharp\list13\bin\Debug\net6.0\list13.runtimeconfig.json
+D:\C_Sharp\list13\bin\Debug\net6.0\list13.dll
+D:\C_Sharp\list13\bin\Debug\net6.0\list13.pdb
+D:\C_Sharp\list13\obj\Debug\net6.0\list13.csproj.AssemblyReference.cache
+D:\C_Sharp\list13\obj\Debug\net6.0\list13.GeneratedMSBuildEditorConfig.editorconfig
+D:\C_Sharp\list13\obj\Debug\net6.0\list13.AssemblyInfoInputs.cache
+D:\C_Sharp\list13\obj\Debug\net6.0\list13.AssemblyInfo.cs
+D:\C_Sharp\list13\obj\Debug\net6.0\list13.csproj.CoreCompileInputs.cache
+D:\C_Sharp\list13\obj\Debug\net6.0\list13.dll
+D:\C_Sharp\list13\obj\Debug\net6.0\refint\list13.dll
+D:\C_Sharp\list13\obj\Debug\net6.0\list13.pdb
+D:\C_Sharp\list13\obj\Debug\net6.0\list13.genruntimeconfig.cache
+D:\C_Sharp\list13\obj\Debug\net6.0\ref\list13.dll

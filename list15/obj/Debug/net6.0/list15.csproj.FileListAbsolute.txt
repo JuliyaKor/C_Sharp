@@ -1,0 +1,15 @@
+D:\C_Sharp\list15\bin\Debug\net6.0\list15.exe
+D:\C_Sharp\list15\bin\Debug\net6.0\list15.deps.json
+D:\C_Sharp\list15\bin\Debug\net6.0\list15.runtimeconfig.json
+D:\C_Sharp\list15\bin\Debug\net6.0\list15.dll
+D:\C_Sharp\list15\bin\Debug\net6.0\list15.pdb
+D:\C_Sharp\list15\obj\Debug\net6.0\list15.csproj.AssemblyReference.cache
+D:\C_Sharp\list15\obj\Debug\net6.0\list15.GeneratedMSBuildEditorConfig.editorconfig
+D:\C_Sharp\list15\obj\Debug\net6.0\list15.AssemblyInfoInputs.cache
+D:\C_Sharp\list15\obj\Debug\net6.0\list15.AssemblyInfo.cs
+D:\C_Sharp\list15\obj\Debug\net6.0\list15.csproj.CoreCompileInputs.cache
+D:\C_Sharp\list15\obj\Debug\net6.0\list15.dll
+D:\C_Sharp\list15\obj\Debug\net6.0\refint\list15.dll
+D:\C_Sharp\list15\obj\Debug\net6.0\list15.pdb
+D:\C_Sharp\list15\obj\Debug\net6.0\list15.genruntimeconfig.cache
+D:\C_Sharp\list15\obj\Debug\net6.0\ref\list15.dll
